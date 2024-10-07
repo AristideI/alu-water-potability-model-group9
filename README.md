@@ -14,7 +14,7 @@
 |---------------|---------------------------------------|
 | Xavier        | Data handler (Tasks 1-3)              |
 | Gulad         | Vanilla Model Implementer (Task 4)    |
-| Cynthia       | Model Optimizer (Tasks 1-5)           |
+| Cynthia       | Model Optimizer 1 (Task 5)           |
 | Aristide & Gulad | Model Optimizer (Tasks 6 & 7)      |
 | All members   | Error Analysis and Model Evaluation (Task 8) |
 
