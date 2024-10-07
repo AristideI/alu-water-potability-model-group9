@@ -22,6 +22,8 @@
 
 ## Google Colab Link
 [Google Colab Link](https://colab.research.google.com/drive/1CkJmHdrA2GG9EWXHI_uLuPwcS9Mj1j0p?usp=chrome_ntp#scrollTo=vXlj4Qzwgnwa)
+## Report link
+[report link] (https://docs.google.com/document/d/1GNUwhNYHUUKQL3-sZRn9TO7-ceoUYeSWNQyU0PfGxC8/edit)
 
 ## Data Preprocessing
 
